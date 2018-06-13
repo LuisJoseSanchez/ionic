@@ -10,6 +10,8 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 [TypeScript Deep Dive - Basarat Ali Syed. PDF: ](https://www.gitbook.com/download/pdf/book/basarat/typescript)
 
+[TypeScript Deep Dive - Basarat Ali Syed. Libro en línea: ](https://basarat.gitbooks.io/typescript/)
+
 Ejercicios de TypeScript
 
 
