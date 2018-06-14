@@ -4,7 +4,7 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 ## TypeScript
 
-<img src="img/typescript.jpg" width="320px">
+<a href="https://github.com/basarat/typescript-book" target="_blank"><img src="img/typescript.jpg" width="320px"></a>
 
 [TypeScript Deep Dive - Basarat Ali Syed. Repositorio en GitHub: ](https://github.com/basarat/typescript-book)
 
