@@ -30,6 +30,12 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <hr>
 
+<a href="https://angular-university.io/" target="_blank"><img src="img/angularuniv.png" with="200px"></a>
+
+[Angular University](https://angular-university.io/)
+
+<hr>
+
 <a href="https://ionicframework.com/" target="_blank"><img src="img/ioniclogo2.png" with="320px"></a>
 
 [Ionic (página oficial)](https://ionicframework.com/)
