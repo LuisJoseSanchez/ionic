@@ -20,7 +20,7 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <hr>
 
-<a href="https://angular.io/" target="_blank"><img src="img/angularlogo.png" with="360px"></a>
+<a href="https://angular.io/" target="_blank"><img src="img/angularlogo.png" with="320px"></a>
 
 [Angular (página oficial)](https://angular.io/)
 
@@ -30,7 +30,7 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <hr>
 
-<a href="https://ionicframework.com/" target="_blank"><img src="img/ioniclogo2.png" with="360px"></a>
+<a href="https://ionicframework.com/" target="_blank"><img src="img/ioniclogo2.png" with="320px"></a>
 
 [Ionic (página oficial)](https://ionicframework.com/)
 
