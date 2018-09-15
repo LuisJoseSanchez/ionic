@@ -39,3 +39,7 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 [Repositorio de Ionic en GitHub](https://github.com/ionic-team/ionic)
 
 <hr>
+
+<a href="https://www.joshmorony.com/" target="_blank"><img src="img/joshmorony.png" with="320px"></a>
+
+[Josh Morony - Cursos y blog sobre Ionic](https://www.joshmorony.com/)
