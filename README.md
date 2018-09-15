@@ -30,13 +30,13 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <hr>
 
-<a href="https://angular-university.io/" target="_blank"><img src="img/angularuniv.png" with="100px"></a>
+<a href="https://angular-university.io/" target="_blank"><img src="img/angularuniv.png" width="120px"></a>
 
 [Angular University](https://angular-university.io/)
 
 <hr>
 
-<a href="https://ionicframework.com/" target="_blank"><img src="img/ioniclogo2.png" with="320px"></a>
+<a href="https://ionicframework.com/" target="_blank"><img src="img/ioniclogo2.png" width="320px"></a>
 
 [Ionic (página oficial)](https://ionicframework.com/)
 
@@ -46,6 +46,6 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <hr>
 
-<a href="https://www.joshmorony.com/" target="_blank"><img src="img/joshmorony.png" with="320px"></a>
+<a href="https://www.joshmorony.com/" target="_blank"><img src="img/joshmorony.png" width="320px"></a>
 
 [Josh Morony - Cursos y blog sobre Ionic](https://www.joshmorony.com/)
