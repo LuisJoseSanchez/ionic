@@ -17,6 +17,8 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 [Enunciado con los requisitos de la aplicación](aplicacion_ionic.pdf)
 
+<hr>
+
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="img/typescriptlogo.png"></a>
 
 [TypeScript (página oficial)](https://www.typescriptlang.org/)
