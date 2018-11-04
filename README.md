@@ -4,6 +4,19 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <hr>
 
+## Aplicaciones de ejemplo en Ionic
+
+* [Calculadora](https://github.com/LuisJoseSanchez/ionic-calculator)
+* [Ejercicios básicos](https://github.com/LuisJoseSanchez/ionic-ejercicios-basicos)
+* [Lista de tareas](https://github.com/LuisJoseSanchez/ionic-todo-storage)
+* [Videos graciosos](https://github.com/LuisJoseSanchez/ionic-funnygifs)
+
+<hr>
+
+## Aplicación de Ionic
+
+[Enunciado con los requisitos de la aplicación](aplicacion_ionic.pdf)
+
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="img/typescriptlogo.png"></a>
 
 [TypeScript (página oficial)](https://www.typescriptlang.org/)
