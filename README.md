@@ -9,6 +9,10 @@ Este documento es la guía de la asignatura **Ionic - Aplicaciones Híbridas** d
 
 <a href="https://leanpub.com/aprendeionic" target="_blank"><img src="img/aprendeionicconejercicios400.png"></a>
 
+Descarga del libro: <https://leanpub.com/aprendeionic>
+
+Ejemplos y soluciones a los ejercicios: <https://github.com/LuisJoseSanchez/aprende-ionic-con-ejercicios>
+
 <hr>
 
 ## Aplicaciones de ejemplo en Ionic
